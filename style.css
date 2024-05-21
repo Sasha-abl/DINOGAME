@@ -34,6 +34,7 @@ body {
     display: block;
     font-size: 50px;
     font-family: sans-serif;
+    color: gold;
 }
 
 .hide {
@@ -61,10 +62,12 @@ body {
     padding: 0px;
     margin:  0px;
     margin-top: 20px;
+    color: gold;
 }
 
 .highestScore p {
     padding: 0px;
     margin: 0px;
     margin-top: 30px;
+    color: gold;
 }
